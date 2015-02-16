@@ -1,4 +1,4 @@
-## Creating a special matrix that can cache its invese
+## Creating a special matrix that can cache its inverse
 ## It is concerned with lexical scoping and caching functions
 # makeCacheMatrix
 makeCacheMatrix <- function(x = matrix()) {
